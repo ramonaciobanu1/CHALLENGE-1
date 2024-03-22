@@ -3,7 +3,7 @@ AI-case-study
 
 ## Overview and Origin
 
-* Name of company. Devin AI was developed by Cognition an AI engeneering software.
+* Name of company. Devin AI was developed by Cognition an AI engineering software.
 
 * When was the company incorporated? Company was incorporated in November of 2023
   
@@ -11,7 +11,7 @@ AI-case-study
 
 * How did the idea for the company (or project) come about? The idea was designed as a "side hustle" which then lead to the creation of the first fully autonomous AI Software engineer.
 
-* How is the company funded? How much funding have they received? The company raines $21 million Series-A lead by Founders Fund which is a well known fun in Silicone Valley.
+* How is the company funded? How much funding have they received? The company raised $21 million Series-A lead by Founders Fund which is a well known fun in Silicone Valley.
 
 ## Business Activities
 
