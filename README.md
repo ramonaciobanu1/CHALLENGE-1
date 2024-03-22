@@ -35,13 +35,13 @@ AI-case-study
 
 * What has been the business impact of this company so far? Significant increased in operational efficiency.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Accuracy of text analysis, processing speed and skill ability. 
 
-* How is your company performing relative to competitors in the same field?
+* How is your company performing relative to competitors in the same field? The company gained recognition for it's superior peformance in its specific natural language tasks.  
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) Tool kits specifically taylored for social medial.
 
 * Why do you think that offering this product or service would benefit the company?
 
