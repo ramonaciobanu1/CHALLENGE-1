@@ -1,5 +1,5 @@
 # CHALLENGE-1
-AI-case-study
+AI-case-study ch
 
 ## Overview and Origin
 
